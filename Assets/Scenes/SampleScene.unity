@@ -297,6 +297,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   count_text: {fileID: 1456424599}
+  material: {fileID: 2100000, guid: c1dc6f250a27945f98c195d150f2cc62, type: 2}
 --- !u!1001 &206249308
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -831,6 +832,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   count_text: {fileID: 1456424599}
+  material: {fileID: 2100000, guid: c1dc6f250a27945f98c195d150f2cc62, type: 2}
 --- !u!1001 &844741828
 PrefabInstance:
   m_ObjectHideFlags: 0
